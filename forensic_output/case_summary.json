@@ -1,0 +1,12 @@
+{
+  "case_generated": "2026-04-01T10:26:47.039893",
+  "output_dir": "forensic_output",
+  "total_artifacts": 308555,
+  "high_risk": 19,
+  "medium_risk": 307890,
+  "categories": {
+    "filesystem": 307905,
+    "browser": 517,
+    "metadata": 133
+  }
+}
