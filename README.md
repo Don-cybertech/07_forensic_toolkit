@@ -337,8 +337,17 @@ python3 forensics_toolkit.py --dir /evidence --all --timeline --output ./case_00
 
 ## Author
 
-**Egwu Donatus Achema** — Cybersecurity Student | Python Developer
-- GitHub: [@Don-cybertech](https://github.com/Don-cybertech)
+**Egwu Donatus Achema**
+
+— Cybersecurity Analyst| Python Developer 
+
+GitHub:[@Don-cybertech(https://github.com/Don-cybertech)]
+
+LinkedIn: (https://www.linkedin.com/in/egwu-donatus-achema-8a9251378/)
+
+Gmail:(donatusachema@gmail.com)
+
+Part of: [Cybersecurity Portfolio(https://github.com/Don-cybertech/cybersecurity_portfolio)]
 
 > *"Every digital action leaves a trace." — Forensics Principle*
 
